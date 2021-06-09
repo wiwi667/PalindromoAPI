@@ -3,7 +3,7 @@ const { Router } = require('express')
 const app = Router()
 
 const normalizar = txt => {
-    return txt.trim().replace(/ +/g, '').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+    return txt.trim().replace(/ +/g, '').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/,/g,'')
 }
 
 app.get('/iecho', (req, res) => {
