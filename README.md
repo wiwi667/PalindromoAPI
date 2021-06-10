@@ -31,4 +31,4 @@ Valida que el codigo cumpla con los estandares deseados
 Levanta el API en el puerto 3010
 Se puede verificar con el siguiente link:
 
-[http://localhost:3010/iecho?text=Aman%20a%20Panam%C3%A1](http://localhost:3010/iecho?text=Aman%20a%20Panam%C3%A1)
+[localhost:3010/iecho?text=Aman a Panamá](http://localhost:3010/iecho?text=Aman%20a%20Panam%C3%A1)
