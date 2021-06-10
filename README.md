@@ -18,7 +18,7 @@ Ingresar al directorio de descarga `./ToolBoxFO/api` (si se crearon las carpetas
 
 
 ## Scripts habilitados
-En el protexto se puede correr:
+En el projecto se puede correr:
 
 ### `npm test`
 Valida que los métodos del API respondan correctamente
