@@ -4,7 +4,7 @@ Es un API REST, a la cual se le envía un texto y responde con el mismo texto in
 
 
 ## Descarga
-Para descargar ejecutar el siguiente conmando en el directorio deseado:
+Para descargar ejecutar el siguiente comando en el directorio deseado:
 
 ### `git clone https://github.com/wiwi667/ToolBoxAPI.git ./ToolBoxFO/api`
 
